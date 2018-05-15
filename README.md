@@ -1,1 +1,0 @@
-# responsive-email-templates
